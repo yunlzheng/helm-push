@@ -1,4 +1,4 @@
-name: "push"
+name: "rdc-push"
 version: "0.7.1"
 usage: "Please see https://github.com/chartmuseum/helm-push for usage"
 description: "Push chart package to ChartMuseum"
